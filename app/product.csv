@@ -1,0 +1,249 @@
+id,price,name
+1,0.5,Mint Sauce
+2,0.5,Lime Pickle
+3,0.5,Mango Chutney
+4,0.5,Red Sauce
+5,0.5,Onion Chutney
+6,0.8,Plain Papadum
+7,0.8,Spicy Papadum
+8,1.95,Chapati
+9,1.95,Puree
+10,2.6,Tandoori Roti
+11,2.6,Plain Naan
+12,2.95,Raitha
+13,2.95,Keema Naan
+14,2.95,Peshwari Naan
+15,2.95,Pilau Rice
+16,2.95,Green Salad
+17,2.95,Bottle Coke
+18,2.95,Plain Rice
+19,2.95,Garlic Naan
+20,2.95,Onion Naan
+21,2.95,Paratha
+22,2.95,Bottle Diet Coke
+23,2.95,Kulcha Naan
+24,2.95,Lemonade 1.5 ltr
+25,2.95,Diet Coke 1.5 ltr
+26,2.95,Coke 1.5 ltr
+27,3.95,Dhansak Sauce
+28,3.95,Onion Bhajee
+29,3.95,Lemon Rice
+30,3.95,French Fries
+31,3.95,Garlic Rice
+32,3.95,Onion Rice
+33,3.95,Perrier Water (750ml)
+34,3.95,Special Fried Rice
+35,3.95,Meat Samosa
+36,3.95,Mushroom Rice
+37,3.95,Korma Sauce
+38,3.95,Vegetable Rice
+39,3.95,Egg Rice
+40,3.95,Curry Sauce
+41,3.95,Egg Paratha
+42,3.95,Keema Rice
+43,3.95,Stuffed Paratha
+44,3.95,COBRA (330ML)
+45,3.95,Saag Rice
+46,3.95,Masala Sauce
+47,3.95,Madras Sauce
+48,3.95,Vindaloo Sauce
+49,3.95,Bengal Salad
+50,3.95,Still Water (750ml)
+51,3.95,Prier Water (750ml)
+52,3.95,Onion Bhaji
+53,3.95,Chicken Tikka
+54,4.95,Aloo Chaat
+55,4.95,Tandoori Chicken (1/4)
+56,4.95,Chicken Chaat
+57,4.95,Prawn Puree
+58,4.95,Lamb Tikka
+59,4.95,Vegetable Roll
+60,4.95,Sheek Kebab
+61,4.95,Sheek Kehab
+62,4.95,Vegetable Samosa
+63,5.95,King Prawn Puree
+64,5.95,Bhindi Bhajee
+65,5.95,Tarka Dall
+66,5.95,Saag Paneer
+67,5.95,Baingan Hari Mirch
+68,5.95,Chicken Pakora
+69,5.95,COBRA ( LARGE )
+70,5.95,Royal Paneer
+71,5.95,Muttar Paneer
+72,5.95,Chana Masala
+73,5.95,Bombay Aloo
+74,5.95,Saag Aloo
+75,5.95,Aloo Methi
+76,5.95,Saag Bhajee
+77,5.95,Cauliflower Bhajee
+78,5.95,Saag Dall
+79,5.95,Aloo Gobi
+80,5.95,Mixed Vegetable Curry
+81,5.95,Mushroom Bhajee
+82,5.95,Mixed Starter
+83,5.95,Tandoori Fish
+84,5.95,Brinjal Bhajee
+85,5.95,Vegetable Mysore
+86,5.95,King Prawn Butterfly
+87,5.95,Dall Samba
+88,5.95,COBRA (660ML)
+89,7.9,Chicken Chaat Main
+90,7.95,Madras - Chicken
+91,7.95,Madras - Lamb
+92,7.95,Curry - Chicken
+93,7.95,Vindaloo - Chicken
+94,7.95,Madras - Chicken Tikka
+95,7.95,Curry - Lamb
+96,7.95,Curry - Chicken Tikka
+97,7.95,Vindaloo - Chicken Tikka
+98,7.95,Vindaloo - Lamb
+99,7.95,Madras
+100,7.95,Curry
+101,7.95,Vindaloo
+102,8.95,Korma - Chicken
+103,8.95,Chicken Tikka Masala
+104,8.95,Pathia - Chicken Tikka
+105,8.95,Chicken Tikka Jalfrezi
+106,8.95,Methi - Lamb
+107,8.95,Tandoori Chicken (Main)
+108,8.95,Bhuna - Chicken
+109,8.95,Korma - Chicken Tikka
+110,8.95,Chicken Tikka (Main)
+111,8.95,Paneer Tikka Masala
+112,8.95,Dupiaza - Chicken
+113,8.95,Bhuna - Chicken Tikka
+114,8.95,Pathia - Lamb
+115,8.95,Chicken Karahi
+116,8.95,Bhuna - Lamb
+117,8.95,Dhansak - Chicken Tikka
+118,8.95,Dhansak - Chicken
+119,8.95,Rogon - Lamb
+120,8.95,Chicken Tikka Pasanda
+121,8.95,Pathia - Chicken
+122,8.95,Lamb Tikka Masala
+123,8.95,Lamb Tikka Jalfrezi
+124,8.95,Lamb Karahi
+125,8.95,Madras - Prawn
+126,8.95,Lamb Tikka (Main)
+127,8.95,Lamb Tikka Pasanda
+128,8.95,Lamb Tikka Garlic
+129,8.95,Chicken Tikka Garlic
+130,8.95,Chicken Tikka Chilli Masala
+131,8.95,Dupiaza - Chicken Tikka
+132,8.95,Mushroom - Chicken
+133,8.95,Dhansak - Lamb
+134,8.95,Sheek Kebab (Main)
+135,8.95,Saag - Chicken
+136,8.95,Tandoori Chicken Masala
+137,8.95,Saag - Chicken Tikka
+138,8.95,Dupiaza - Lamb
+139,8.95,Curry - Prawn
+140,8.95,Saag - Lamb
+141,8.95,Korma - Lamb
+142,8.95,Mushroom - Lamb
+143,8.95,Rogon - Chicken Tikka
+144,8.95,Lamb Tikka Chilli Masala
+145,8.95,Vindaloo - Prawn
+146,8.95,Methi - Chicken Tikka
+147,8.95,Vegetable Karahi
+148,8.95,Rogon - Chicken
+149,8.95,Mushroom - Chicken Tikka
+150,8.95,Methi - Chicken
+151,8.95,Lamb Tikka Jeera
+152,8.95,Chicken Tikka Jeera
+153,8.95,Bhuna
+154,8.95,Saag
+155,8.95,Dhansak
+156,8.95,Pathia
+157,8.95,Korma
+158,8.95,Dupiaza
+159,8.95,Methi
+160,8.95,Rogon
+161,8.95,Mushroom
+162,8.95,Tandoori Chicken
+163,9.95,Chicken Shashlick
+164,9.95,Chicken Roshni
+165,9.95,Chicken Balti
+166,9.95,Lamb Balti
+167,9.95,Butter Chicken
+168,9.95,Lamb Hari Mirch
+169,9.95,Chicken Chilli Garlic
+170,9.95,Lamb Biryani
+171,9.95,Vegetable Biryani
+172,9.95,Chicken Rezala
+173,9.95,Lamb Rezala
+174,9.95,Chicken Tikka Karahi
+175,9.95,Chicken Hari Mirch
+176,9.95,Chicken Biryani
+177,9.95,Lamb Shashlick
+178,9.95,Bhuna - Prawn
+179,9.95,Chicken Haryali
+180,9.95,Lamb Chilli Garlic
+181,9.95,Paneer Shaslick
+182,9.95,Chicken Mysore
+183,9.95,Paneer Tikka Karahi
+184,9.95,Lamb Achar
+185,9.95,Paneer Tikka Sizzler
+186,9.95,Chicken Tikka Sizzler
+187,9.95,Lal Mirch Chicken
+188,9.95,Lamb Tikka Karahi
+189,9.95,Prawn Karahi
+190,9.95,Lal Mirch Lamb
+191,9.95,Korma - Prawn
+192,9.95,Lamb Haryali
+193,9.95,Lamb Sylhet
+194,9.95,Vegetable Balti
+195,9.95,Dhansak - Prawn
+196,9.95,Lamb Mysore
+197,9.95,Chicken Sylhet
+198,9.95,Lamb Tikka Sizzler
+199,9.95,Pathia - Prawn
+200,9.95,Chicken Achar
+201,9.95,Dupiaza - Prawn
+202,9.95,Lamb Roshni
+203,9.95,Saag - Prawn
+204,9.95,Methi - Prawn
+205,9.95,Rogon - Prawn
+206,9.95,Mushroom - Prawn
+207,10.95,Lamb Tikka Biryani
+208,10.95,Chicken Tikka Balti
+209,10.95,Lamb Tikka Balti
+210,10.95,Prawn Biryani
+211,10.95,Paneer Tikka Balti
+212,10.95,Chicken Tikka Biryani
+213,10.95,Persian Lamb Biryani
+214,10.95,Prawn Balti
+215,10.95,Persian Chicken Biryani
+216,10.95,Lamb Persian
+217,11.95,Tandoori Mixed Grill
+218,11.95,Curry - King Prawn
+219,11.95,Madras - King Prawn
+220,11.95,Tandoori Fish (Main)
+221,11.95,Vindaloo - King Prawn
+222,12.95,Tandoori King Prawn Garlic
+223,12.95,Chicken Shashlick Curry
+224,12.95,King Prawn Hari Mirch
+225,12.95,Hazary Lamb Chilli Garlic
+226,12.95,Lamb Shashlick Curry
+227,12.95,King Prawn Shaslick
+228,12.95,Dhansak - King Prawn
+229,12.95,Bengal King Prawn
+230,12.95,Korma - King Prawn
+231,12.95,Bhuna - King Prawn
+232,12.95,Hazary Lamb
+233,12.95,Bengal Fish Biryani
+234,12.95,Tandoori King Prawn Masala
+235,12.95,King Prawn Biryani
+236,12.95,Saag - King Prawn
+237,12.95,Dupiaza - King Prawn
+238,12.95,Pathia - King Prawn
+239,12.95,Bengal Fry Fish
+240,12.95,King Prawn Balti
+241,12.95,Bengal Fish Karahi
+242,12.95,Rogon - King Prawn
+243,12.95,Mushroom - King Prawn
+244,12.95,King Prawn Karahi
+245,12.95,Methi - King Prawn
+246,12.95,Kurma
+247,17.95,House Red wine 75cl
+248,17.95,House white wine 75cl
