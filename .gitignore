@@ -8,3 +8,4 @@ venv/
 **__pycache__/
 /app/combined_data2.csv
 /app/test.ipynb
+combined_data.csv
