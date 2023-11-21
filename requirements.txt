@@ -1,4 +1,4 @@
 pandas==2.1.3
 numpy==1.26.2
 jupyter==1.0.0
-matplotlib==3.8.2git commit -am 'Solution'
+matplotlib==3.8.2
