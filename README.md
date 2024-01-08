@@ -5,7 +5,7 @@
 
 ### Task
 
-You're given part of restaurant's [db](db.sqlite3) with product, order & order_items info.
+You're given part of restaurant's [db](app/db.sqlite3) with product, order & order_items info.
 Your task is to extract data from db using SQL queries & perform data analysis on it.
 Detailed step-by-step task you will find [here](app/main.ipynb).
 
