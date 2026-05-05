@@ -6,3 +6,7 @@
 venv/
 .pytest_cache/
 **__pycache__/
+/app/db.sqlite3
+/app/result.csv
+/demo/.ipynb_checkpoints
+/app/.ipynb_checkpoints/main-checkpoint.ipynb
